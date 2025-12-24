@@ -1,0 +1,6 @@
+ ⨯ Error: Attempted to call map() from the server but map is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+    at Page (./src/app/page.tsx:69:93)
+digest: "174766298"
+ ⨯ Error: Attempted to call map() from the server but map is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.
+    at Page (./src/app/page.tsx:69:93)
+digest: "174766298"
